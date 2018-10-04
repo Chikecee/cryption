@@ -1,2 +1,2 @@
-# cryption
+# crypt-ion
 Encrypted Chat Messaging
